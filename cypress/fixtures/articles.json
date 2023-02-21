@@ -1,0 +1,40 @@
+{
+    "articles": [
+        {
+            "slug": "This-is-an-title-140556",
+            "title": "Title 1",
+            "description": "This is a description",
+            "body": "The text of article",
+            "tagList": [],
+            "createdAt": "2023-02-20T13:25:13.139Z",
+            "updatedAt": "2023-02-20T13:25:13.139Z",
+            "favorited": true,
+            "favoritesCount": 1,
+            "author": {
+                "username": "adellcia",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        },
+        {
+            "slug": "This-is-a-title-140556",
+            "title": "Title 2",
+            "description": "This is a description",
+            "body": "The text of article",
+            "tagList": [],
+            "createdAt": "2023-02-20T12:57:44.498Z",
+            "updatedAt": "2023-02-20T12:57:44.498Z",
+            "favorited": false,
+            "favoritesCount": 5,
+            "author": {
+                "username": "adellcia",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "following": false
+            }
+        }
+    ],
+    "arcticlesCount": 2
+}
+        
